@@ -11,7 +11,7 @@ const CATEGORIES = [
 
 const initialFacts = [
   {
-    id: 1,
+    id: 1;
     text: "React is being developed by Meta (formerly facebook)",
     source: "https://opensource.fb.com/",
     category: "technology",
